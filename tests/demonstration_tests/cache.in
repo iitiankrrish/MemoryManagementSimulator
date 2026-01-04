@@ -1,0 +1,8 @@
+cache init L1 128 64 1
+cache init L2 256 64 2
+cache access 0x100
+cache access 0x100
+cache access 0x200
+cache access 0x300
+cache access 0x400
+cache stats

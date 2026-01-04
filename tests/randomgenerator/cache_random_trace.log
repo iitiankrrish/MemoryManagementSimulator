@@ -1,0 +1,22 @@
+Memory Simulator
+> Initialized L1 cache
+> L1 MISS
+> L1 MISS
+> L1 MISS
+> L1 HIT
+> L1 HIT
+> L1 HIT
+> L1 HIT
+> L1 MISS
+> L1 HIT
+> L1 HIT
+> L1 HIT
+> L1 HIT
+> L1 MISS
+> L1 HIT
+> L1 MISS
+> --- L1 Cache Statistics (FIFO) ---
+  Hits: 9
+  Misses: 6
+  Hit rate: 60%
+> 

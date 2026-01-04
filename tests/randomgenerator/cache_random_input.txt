@@ -1,0 +1,18 @@
+cache init L1 256 32 1
+cache access 0x1259
+cache access 0x48
+cache access 0x972
+cache access 0x972
+cache access 0x972
+cache access 0x972
+cache access 0x48
+cache access 0x1259
+cache access 0x972
+cache access 0x1259
+cache access 0x972
+cache access 0x1259
+cache access 0x48
+cache access 0x972
+cache access 0x1259
+cache stats
+exit

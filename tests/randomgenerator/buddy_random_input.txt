@@ -1,0 +1,14 @@
+init buddy 4096 16
+malloc 62
+malloc 307
+malloc 398
+malloc 205
+malloc 137
+malloc 445
+malloc 185
+malloc 484
+stats
+dump
+free 0x0
+stats
+exit

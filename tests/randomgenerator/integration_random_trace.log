@@ -1,0 +1,27 @@
+Memory Simulator
+> Standard Memory Initialized.
+> Initialized L1 cache
+> Allocated block id=1 at address=0x0
+> L1 MISS
+> Allocated block id=2 at address=0x62
+> L1 HIT
+> Allocated block id=3 at address=0x92
+> L1 HIT
+> Allocated block id=4 at address=0xeb
+> L1 HIT
+> Allocated block id=5 at address=0x10f
+> L1 HIT
+> Total memory: 1024
+Used memory: 378
+Free memory: 646
+Internal fragmentation: 0 bytes
+External fragmentation: 0%
+Allocation requests: 5
+Successful allocations: 5
+Failed allocations: 0
+Allocation success rate: 100%
+> --- L1 Cache Statistics (FIFO) ---
+  Hits: 4
+  Misses: 1
+  Hit rate: 80%
+> 

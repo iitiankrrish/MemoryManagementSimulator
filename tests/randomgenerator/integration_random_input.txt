@@ -1,0 +1,15 @@
+init memory 1024
+cache init L1 128 32 2
+malloc 98
+cache access 0x0
+malloc 48
+cache access 0x0
+malloc 89
+cache access 0x0
+malloc 36
+cache access 0x0
+malloc 107
+cache access 0x0
+stats
+cache stats
+exit

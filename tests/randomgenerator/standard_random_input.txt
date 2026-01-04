@@ -1,0 +1,17 @@
+init memory 3072
+set allocator first_fit
+malloc 227
+malloc 150
+malloc 17
+malloc 239
+malloc 91
+malloc 15
+malloc 210
+malloc 228
+malloc 264
+malloc 132
+free 2
+free 8
+stats
+dump
+exit

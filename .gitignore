@@ -1,0 +1,11 @@
+*.o
+*.out
+*.exe
+memsim
+build/
+bin/
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
