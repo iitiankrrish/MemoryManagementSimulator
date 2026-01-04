@@ -1,0 +1,47 @@
+Memory Simulator
+> Standard Memory Initialized.
+> Allocated block id=1 at address=0x0
+> Allocated block id=2 at address=0xc8
+> Allocated block id=3 at address=0x190
+> Allocated block id=4 at address=0x2bc
+> Block 1 freed
+> Block 3 freed
+> [0x0 - 0xc7] FREE
+[0xc8 - 0x18f] USED
+[0x190 - 0x2bb] FREE
+[0x2bc - 0x383] USED
+[0x384 - 0x3e7] FREE
+> Allocator set to best_fit
+> Allocated block id=5 at address=0x0
+> [0x0 - 0x95] USED
+[0x96 - 0xc7] FREE
+[0xc8 - 0x18f] USED
+[0x190 - 0x2bb] FREE
+[0x2bc - 0x383] USED
+[0x384 - 0x3e7] FREE
+> Block 5 freed
+> Allocator set to worst_fit
+> Allocated block id=6 at address=0x190
+> [0x0 - 0xc7] FREE
+[0xc8 - 0x18f] USED
+[0x190 - 0x225] USED
+[0x226 - 0x2bb] FREE
+[0x2bc - 0x383] USED
+[0x384 - 0x3e7] FREE
+> Invalid block id
+> Block 6 freed
+> Total memory: 1000
+Used memory: 400
+Free memory: 600
+Internal fragmentation: 0 bytes
+External fragmentation: 50%
+Allocation requests: 6
+Successful allocations: 6
+Failed allocations: 0
+Allocation success rate: 100%
+> [0x0 - 0xc7] FREE
+[0xc8 - 0x18f] USED
+[0x190 - 0x2bb] FREE
+[0x2bc - 0x383] USED
+[0x384 - 0x3e7] FREE
+> 

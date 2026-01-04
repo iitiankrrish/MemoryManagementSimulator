@@ -1,0 +1,21 @@
+Memory Simulator
+> Initialized L1 cache
+> Initialized L2 cache
+> L1 MISS
+L2 MISS
+> L1 HIT
+> L1 MISS
+L2 MISS
+> L1 MISS
+L2 MISS
+> L1 MISS
+L2 MISS
+> --- L1 Cache Statistics (FIFO) ---
+  Hits: 1
+  Misses: 4
+  Hit rate: 20%
+--- L2 Cache Statistics (FIFO) ---
+  Hits: 0
+  Misses: 4
+  Hit rate: 0%
+> 

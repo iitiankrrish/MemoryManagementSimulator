@@ -1,0 +1,24 @@
+Memory Simulator
+> Buddy Allocator Initialized.
+> Allocated at address: 0x0
+> Allocated at address: 0x100
+> --- Buddy Allocator Stats ---
+Total Memory: 1024
+Internal Fragmentation: 114 bytes
+External Fragmentation: 20%
+Utilization: 26.3672%
+> Level 0 (1024 bytes): 
+Level 1 (512 bytes): 512 
+Level 2 (256 bytes): 
+Level 3 (128 bytes): 128 
+Level 4 (64 bytes): 
+Level 5 (32 bytes): 
+Level 6 (16 bytes): 
+> Buddy allocation failed.
+> Address 0x0 freed and merged.
+> --- Buddy Allocator Stats ---
+Total Memory: 1024
+Internal Fragmentation: 56 bytes
+External Fragmentation: 33.3333%
+Utilization: 19.5312%
+> 
