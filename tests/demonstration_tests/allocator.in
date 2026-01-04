@@ -13,8 +13,7 @@ free 5
 set allocator worst_fit
 malloc 150
 dump
-free 2
-free 4
 free 5
+free 6
 stats
 dump
