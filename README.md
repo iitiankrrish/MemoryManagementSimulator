@@ -103,3 +103,7 @@ To verify the project's robustness, you can run the automated test suite:
 2.  Check the `tests/` folder for generated `.txt` (inputs) and `.log` (outputs).
 
 ---
+## Demonstration Material
+
+[Demonstration Video](https://drive.google.com/file/d/1nNCsrn0-13jIaGHpA1Gy5r3ToWzSXLo6/view?usp=sharing)
+
